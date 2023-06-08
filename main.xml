@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<data>
+    <country>
+        <name>Singapore</name>
+        <rank>4</rank>
+        <year>2011</year>
+        <gdppc>59900</gdppc>
+        <neighbor>
+            <name>Malaysia</name>
+            <direction>N</direction>
+        </neighbor>
+    </country>
+    <country>
+        <name>Panama</name>
+        <rank>68</rank>
+        <year>2011</year>
+        <gdppc>13600</gdppc>
+        <neighbor>
+            <name>Costa Rica</name>
+            <direction>W</direction>
+        </neighbor>
+        <neighbor>
+            <name>Colombia</name>
+            <direction>E</direction>
+        </neighbor>
+    </country>
+</data> 
+    
+    
+
